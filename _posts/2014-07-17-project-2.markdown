@@ -5,8 +5,8 @@ date: 2014-07-17
 img: homeless.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: General Assembly Project
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: The purpose of Get to Know Your Neighbors is to raise awareness around homeless issues. It's a web application built through ruby on rails. This was a group project in which my responsibilities included managing the git workflow and ad-hoc pairing on any front or backend issue.
 
 ---

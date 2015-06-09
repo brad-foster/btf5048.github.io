@@ -5,8 +5,8 @@ date: 2014-07-18
 img: barley.png
 alt: image-alt
 project-date: April 2014
-client: School Project
+client: General Assembly Project
 category: Web Development
-description: Barley is a web application for keeping track of your favorite beers. It's built on a node/express/mongo/backbone stack.
+description: Barley is a web application for keeping track of your favorite beers. It's built on a node/express/mongo/backbone stack. This was a solo project wherein I was responsible for the front and backend.
 
 ---
