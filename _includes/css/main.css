@@ -95,6 +95,14 @@ header img {
     margin: 0 auto 20px;
 }
 
+#profile-pic {
+  height: 30%;
+  width: 20%;
+  border: 5px solid white;
+  border-radius: 50px;
+  margin-top: -5%;
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
