@@ -5,7 +5,7 @@ date: 2014-07-18
 title: Barley
 img: barley.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2015
 link: "http://barleyapp.herokuapp.com"
 category: Web Development
 description: Barley is a web application for keeping track of your favorite beers. It's built on a node/express/mongo/backbone stack. This was a solo project thus I was responsible for the front and backend.

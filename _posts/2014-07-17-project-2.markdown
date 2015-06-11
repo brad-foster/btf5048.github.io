@@ -5,7 +5,7 @@ date: 2014-07-17
 title: Get to Know Your Neighbors
 img: homeless.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2015
 link: http://gettoknowyourneighbors.herokuapp.com
 category: Web Development
 description: The purpose of Get to Know Your Neighbors is to raise awareness around homeless issues. It's a web application built through ruby on rails. This was a group project in which my responsibilities included managing the git workflow and ad-hoc pairing on any front or backend issue.

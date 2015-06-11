@@ -5,8 +5,8 @@ date: 2014-07-16
 title: GiFML
 img: gifml.png
 alt: image-alt
-project-date: April 2014
-link: n/a
+project-date: April 2015
+link:
 category: Web Development
 description: GiFML is a web app where users can create a gif mosaic encapsulating their personality and interests. It's written primarily in javascript and jQuery and was a solo project.
 
