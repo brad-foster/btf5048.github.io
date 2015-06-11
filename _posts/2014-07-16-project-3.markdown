@@ -2,11 +2,12 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
+title: GiFML
 img: gifml.png
 alt: image-alt
 project-date: April 2014
-client: General Assembly Project
+link: n/a
 category: Web Development
-description: GiFML is a web app that lets users create a gif mosaic that encapsulates their personality and interest. It's written primarily in javascript and jQuery. It was a solo project.
+description: GiFML is a web app where users can create a gif mosaic encapsulating their personality and interests. It's written primarily in javascript and jQuery and was a solo project.
 
 ---
