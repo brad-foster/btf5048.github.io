@@ -189,6 +189,10 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+#resume-viewer {
+  text-align: center;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
@@ -196,6 +200,10 @@ section.success {
 
     section.first {
         padding-top: 75px;
+    }
+
+    #resume-viewer {
+      display: none;
     }
 }
 

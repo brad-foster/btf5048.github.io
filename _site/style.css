@@ -196,6 +196,10 @@ section.success {
     background: #00A855;
 }
 
+#resume-viewer {
+  text-align: center;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
@@ -203,6 +207,10 @@ section.success {
 
     section.first {
         padding-top: 75px;
+    }
+
+    #resume-viewer {
+      display: none;
     }
 }
 
@@ -455,3 +463,4 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
