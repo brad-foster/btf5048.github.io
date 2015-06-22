@@ -189,6 +189,11 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+#resume-link {
+  color: #fff;
+  text-decoration: none;
+}
+
 #resume-viewer {
   text-align: center;
 }
